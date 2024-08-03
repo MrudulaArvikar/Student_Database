@@ -33,7 +33,7 @@ This Java application manages a student database with functionalities to add stu
 6. **Exit**: 
    - Choose option 6 from the menu to exit the application.
   
-##License
+## License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
 
 ## Example
